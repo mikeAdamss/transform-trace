@@ -7,5 +7,5 @@ Example of what gets generated when you add the `trace.x` annotations to noteboo
 
 Combining 4 seperate tabs from 2 seperate excel files into one output.
 
-1. [ilch-combined-dataset.html](Html Output & previews)
-2. [ilch-combined-dataset.json](Json Output)
+1. [Html Output & previews](ilch-combined-dataset.html)
+2. [Json Output](ilch-combined-dataset.json)
