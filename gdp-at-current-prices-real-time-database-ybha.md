@@ -1,3 +1,4 @@
+```python
 # -*- coding: utf-8 -*-
 # ---
 # jupyter:
@@ -141,3 +142,4 @@ csvw = CSVWMetadata('https://gss-cogs.github.io/family-trade/reference/')
 csvw.create(out / 'observations.csv', out / 'observations.csv-schema.json')
 
 trace.output()
+```
